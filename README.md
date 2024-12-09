@@ -23,7 +23,7 @@ A robust RESTful API service for sending and scheduling WhatsApp messages, built
 1. Clone repository
 ```bash
 git clone https://github.com/andipyk/Express-WhatsApp-API-Service
-cd whatsapp-api
+cd Express-WhatsApp-API-Service
 ```
 
 2. Install dependencies
