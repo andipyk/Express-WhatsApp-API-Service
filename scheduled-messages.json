@@ -1,0 +1,20 @@
+[
+  {
+    "id": "7b0421ec-44a7-4e44-83f9-a3f99e50911a",
+    "to": "6289686363519",
+    "message": "Your scheduled message",
+    "scheduledTime": "2024-12-09T03:57:00.000Z",
+    "status": "sent",
+    "createdAt": "2024-12-09T03:56:12.324Z",
+    "updatedAt": "2024-12-09T03:57:00.882Z"
+  },
+  {
+    "id": "5b7d2fb0-1419-4def-b69e-44f4d47fcff0",
+    "to": "6289686363519@c.us",
+    "message": "Your scheduled message",
+    "scheduledTime": "2024-12-09T04:43:00.000Z",
+    "status": "sent",
+    "createdAt": "2024-12-09T04:41:36.751Z",
+    "updatedAt": "2024-12-09T04:43:00.425Z"
+  }
+]

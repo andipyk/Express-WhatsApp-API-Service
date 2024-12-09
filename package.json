@@ -1,0 +1,27 @@
+{
+  "name": "whatsapp-node",
+  "module": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun run src/index.ts",
+    "dev": "bun --watch run src/index.ts",
+    "build": "tsc",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.1",
+    "@types/qrcode": "^1.5.5",
+    "@types/swagger-ui-express": "^4.1.7",
+    "@types/uuid": "^10.0.0",
+    "express": "^4.21.2",
+    "qrcode": "^1.5.4",
+    "swagger-ui-express": "^5.0.1",
+    "typescript": "^5.7.2",
+    "uuid": "^11.0.3",
+    "whatsapp-web.js": "^1.26.0"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  }
+}
